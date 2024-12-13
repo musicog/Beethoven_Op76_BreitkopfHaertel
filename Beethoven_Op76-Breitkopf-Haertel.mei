@@ -11,7 +11,8 @@
                <persName role="poet">Thema</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt><date isodate="2022-07-21" type="encoding-date">2022-07-21</date>
+         <pubStmt>
+            <date isodate="2022-07-21" type="encoding-date">2022-07-21</date>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-askelv">
@@ -19,6 +20,10 @@
             <application xml:id="application-732ebm" isodate="2022-07-21T22:17:59" version="3.10.0-845ab54">
                <name xml:id="name-i4r9fk">Verovio</name>
                <p xml:id="p-dq5p27">Transcoded from MusicXML</p>
+            </application>
+            <application xml:id="af4tizx1" startdate="2024-12-13T13:17:26" version="1.1.8">
+               <name xml:id="naw0vzs1">mei-friend</name>
+               <p xml:id="p53alej2">First edit by mei-friend 1.1.8, 11 December 2024.</p>
             </application>
          </appInfo>
       </encodingDesc>
@@ -363,19 +368,19 @@
                      <staff xml:id="smqcwem" n="1">
                         <layer xml:id="lrsvmm8" n="1">
                            <beam xml:id="b7vycyp">
-                              <chord xml:id="clyc200" dur.ppq="6" dur="16" stem.dir="down">
+                              <chord xml:id="clyc200" dur="16" dur.ppq="6" stem.dir="up">
                                  <note xml:id="n6qdygy" oct="5" pname="c" accid.ges="s"/>
                                  <note xml:id="n5jgmm5" oct="5" pname="e"/>
                               </chord>
-                              <chord xml:id="cps8feh" dur.ppq="6" dur="16" stem.dir="down">
+                              <chord xml:id="cps8feh" dur="16" dur.ppq="6" stem.dir="up">
                                  <note xml:id="n7t9251" oct="4" pname="b"/>
                                  <note xml:id="n2and1q" oct="5" pname="d"/>
                               </chord>
-                              <chord xml:id="c5dfjwd" dur.ppq="6" dur="16" stem.dir="down">
+                              <chord xml:id="c5dfjwd" dur="16" dur.ppq="6" stem.dir="up">
                                  <note xml:id="n1p03ki" oct="4" pname="a"/>
                                  <note xml:id="npxsuqi" oct="5" pname="c" accid.ges="s"/>
                               </chord>
-                              <chord xml:id="c3khhhf" dur.ppq="6" dur="16" stem.dir="down">
+                              <chord xml:id="c3khhhf" dur="16" dur.ppq="6" stem.dir="up">
                                  <note xml:id="neupr2f" oct="4" pname="g"/>
                                  <note xml:id="ngqvtu" oct="4" pname="b"/>
                               </chord>
